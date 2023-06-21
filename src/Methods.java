@@ -12,11 +12,14 @@ public class Methods {
 
         int x = getMySecretNumber();
         System.out.println("x: " + x);
+
+        System.out.println("My secret number " + getMySecretNumber());
     }
 
     static int getMySecretNumber (){
         return 7312;
     }
+
 
     //deklaracja metody - stworzenie metody, jeszcze nie użycie
     static void sayHello(){

@@ -5,29 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="27518900-cbd3-4047-a456-e709df898406" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day03.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AddNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AddNumbers2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArraysAndLoops.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArraysInJava.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BreakAndContinue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ForExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InfinityLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/PrePost.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RandomQuess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SimpleWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Text.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WorkingWithArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/forExercises.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variablesTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Methods.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,22 +34,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.Methods">
     <configuration name="AddNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AddNumbers" />
@@ -127,7 +106,16 @@
       <updated>1686983362463</updated>
       <workItem from="1686983363734" duration="666000" />
       <workItem from="1686987398671" duration="20961000" />
+      <workItem from="1687071808392" duration="1428000" />
     </task>
+    <task id="LOCAL-00001" summary="3 day SDA">
+      <created>1687071855015</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1687071855016</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,6 +123,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="3 day SDA" />
+    <option name="LAST_COMMIT_MESSAGE" value="3 day SDA" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -150,7 +140,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Methods.java</url>
-          <line>25</line>
+          <line>28</line>
           <properties class="Methods" method="displayline">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
@@ -163,7 +153,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Methods.java</url>
-          <line>26</line>
+          <line>29</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
